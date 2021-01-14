@@ -1,1 +1,1 @@
-# UI-UX-Challenge
+# ui-ux-challenge
