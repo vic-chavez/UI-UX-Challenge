@@ -1,0 +1,13 @@
+h1 {
+    color: red;
+    font-size: 40px;
+    border: 5px solid blue;
+    text-align: center;
+}
+
+.image1 {
+    border: 5px solid black;
+    outline: 5px solid red;
+    max-width: 15%;
+    max-height: 15%;
+}
